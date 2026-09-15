@@ -373,7 +373,7 @@ Atuando desde 1999 em Tecnologia da Informação, Eduardo Schmidt é um profissi
 
 <br/>
 
-#### Participações | Conhecimentos
+<br/>
 
 <p align="left">
   <img src="https://informatizar.netlify.app/id/img/logo-uolhost.png" alt="UOL Host" width="110"/>
